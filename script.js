@@ -30,10 +30,6 @@ window.addEventListener("load", function () {
                         <img class="avatar" src=${astroData[astronaut].picture}>
                     </div>`
             }
-
-            // console.log(container.innerHTML)
-            // console.log(typeof container.innerHTML)
         });
-        // console.log('window loaded')
     });
 })
